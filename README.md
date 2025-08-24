@@ -6,7 +6,7 @@ I'm interested in programming. I'm currently studying Java and related web frame
 
 #### Open source contributions
 
-Spring AI Alibab Committer: [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
+Spring AI Alibaba Committer: [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
 
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
