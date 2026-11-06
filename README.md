@@ -8,6 +8,8 @@ I'm interested in programming. I'm currently studying Java and related web frame
 
 Spring AI Alibaba Committer: [alibaba/spring-ai-alibaba](https://github.com/alibaba/spring-ai-alibaba)
 
+MaloneTalk Owner: [MaloneTalk](https://github.com/MaloneTalk)
+
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
 <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" width="100%">
 
